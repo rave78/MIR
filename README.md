@@ -1,0 +1,4 @@
+MIR
+===
+
+Multimedia Information Retrieval
